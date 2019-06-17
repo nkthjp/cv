@@ -1,0 +1,30 @@
+body{
+    background-color:lightgreen;
+}
+:hover{
+    background-color:black;
+}
+div.rem,p{
+    color: greenyellow;
+}
+table{
+    background-color: lightgoldenrodyellow;
+}
+
+.bor{
+    border:1px solid black;
+    background-color: greenyellow;
+    color: red;
+}
+img{
+    border-radius:50%;
+    border-style:ridge;
+    border-width: 20px;
+    border-color: blue orangered rgb(0, 255, 85) plum;
+}
+
+h3{
+    font-size: 14pt;
+    color: blue;font-style: Sans-serif;
+}
+p{color: black}
